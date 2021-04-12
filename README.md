@@ -46,7 +46,7 @@ The task is to to build a model that will help marketing department to identify 
 
 Our final decision tree model provided us with the best recall score which is the important metric in evaluating this particular classification problem as earlier explained. As such, we will go ahead and recommend this model to AllLife Bank's Marketing team as a basis for targetting personal loan customers.
 
-The most significant features when deciding on which customers to target are: Income, CCAvg, Family_3, Family_4, Education_2, Education_3. Using this, AllLife Bank can build a customer profile of customers who are most likely to accept the loan offer. This profile could look like this:
+The most significant features when deciding on which customers to target are: Income, CCAvg, Family, Education. Using this, AllLife Bank can build a customer profile of customers who are most likely to accept the loan offer. This profile could look like this:
 
 A personal loan customer on average earns about 148,000 dollars annually and spends about 3,900 dollars on credit cards bills monthly. These customers have a family size of 3 or 4 and are most likely to have achieved graduate or advanced levels of education.
 
