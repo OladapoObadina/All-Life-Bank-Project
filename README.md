@@ -27,7 +27,7 @@ The task is to to build a model that will help marketing department to identify 
 
 - CCAvg: Avg. spending on credit cards per month (in thousand dollars)
 
- -Education: Education Level. 1: Undergrad; 2: Graduate;3: Advanced/Professional
+- Education: Education Level. 1: Undergrad; 2: Graduate;3: Advanced/Professional
 
 - Mortgage: Value of house mortgage if any. (in thousand dollars)
 
